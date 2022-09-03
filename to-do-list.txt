@@ -1,0 +1,6 @@
+tech-blog to do list:
+
+- controllers, API, home routes and index.js
+- models files
+- seed files
+- public files (handlebars and css)
