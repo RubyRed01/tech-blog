@@ -1,6 +1,5 @@
 tech-blog to do list:
 
-- models files
 - seed files
 - public files (handlebars and css)
 
