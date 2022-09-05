@@ -1,6 +1,8 @@
 tech-blog to do list:
 
-- controllers, API, home routes and index.js
 - models files
 - seed files
 - public files (handlebars and css)
+
+sub tasks:
+ - edit userRoutes so that it doesn't use email property anymore
