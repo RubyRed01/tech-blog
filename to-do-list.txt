@@ -1,7 +1,5 @@
 tech-blog to do list:
 
-- seed files
-- public files (handlebars and css)
-
-sub tasks:
- - edit userRoutes so that it doesn't use email property anymore
+- fix js logic files in the public folder
+- design the handlebars
+- design the css
